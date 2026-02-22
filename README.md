@@ -28,15 +28,12 @@ As a programmer, I create practical software solutions from ideas and stay drive
 
 ### Connect with Me 🔗
 <p align="center">
-  <a href="https://www.linkedin.com/in/rishikesh-gawali-b3a510237/">
+  <a href="https://www.linkedin.com/in/sanyukta-sasane-63a5b2257/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.hackerrank.com/profile/rishigawali11">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-  </a>
-  <a href="mailto:rishigawali11@gmail.com">
+  <a href="mailto:sanyuktasasane0645@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/rishigawali_07/">
+  <a href="https://www.instagram.com/sasane_sanyukta/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
