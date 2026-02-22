@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/SanyuktaSasane/SanyuktaSasane/blob/main/banner.png" alt="banner" />
+  <img src="https://github.com/SanyuktaSasane/SanyuktaSasane/blob/main/Sanyukta_banner.png" alt="banner" />
 </p>
 
 <!-- Typing Animation -->
